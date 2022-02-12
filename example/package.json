@@ -1,6 +1,7 @@
 {
   "name": "example",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "start": "npm run build:ssr && npm run serve:ssr",
     "ng": "ng",
